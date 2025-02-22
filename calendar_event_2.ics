@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Product//EN
+BEGIN:VEVENT
+UID:unique-id@example.com
+DTSTAMP:20250222T120000Z
+DTSTART:20250531T123000Z
+DTEND:20250601T130000Z
+SUMMARY:Ślub Ani i Łukasza
+DESCRIPTION:Ślub 14:30 w Parafia św. Michała Archanioła w Czempiniu (Kościelna 1, 64-020 Czempiń)\nWesele 16:00 w Gościniec Niezapominajka w Dalewie (Dalewo 112, 63-100 Dalewo)\nOczepiny 23:00
+LOCATION:Kościelna 1, 64-020 Czempiń
+END:VEVENT
+END:VCALENDAR
