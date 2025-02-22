@@ -1,3 +1,0 @@
-# My second page
-
-* Wow
